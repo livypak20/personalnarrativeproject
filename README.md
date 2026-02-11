@@ -20,6 +20,7 @@ Implement algorithms – Implement one or more algorithms that use loops and log
 
 ## Video
 
+Screen Recording:
 <video controls src="Screen recording 2026-02-10 9.28.41 PM.webm" title="Title"></video>
 
 ## Story Description
