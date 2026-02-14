@@ -54,6 +54,7 @@ public class Interest extends Scene {
   - clears screen after a pause after each image is generated
   */
   public void drawInterests(){
+    playSound("clairo.wav");
     setTextStyle(Font.SERIF, FontStyle.BOLD);
     clear("olive");
     drawImage(images[2][0], 50, 10, 300);
